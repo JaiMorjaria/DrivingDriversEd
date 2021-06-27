@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: c6f545a7d71fd1b44a8db4809a938a66
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Car
+    100004: Car_001
+    100006: Car_002
+    100008: Car_003
+    100010: Car_004
+    100012: Car_005
+    100014: Car_006
+    100016: DoorL
+    100018: DoorR
+    100020: DoorWindowL
+    100022: DoorWindowR
+    100024: Engine
+    100026: Hood
+    100028: Seat1
+    100030: Seat2
+    100032: Steeringwheel
+    100034: Trunk
+    100036: WheelBL
+    100038: WheelBR
+    100040: WheelFL
+    100042: WheelFR
+    100044: Windows
+    400000: //RootNode
+    400002: Car
+    400004: Car_001
+    400006: Car_002
+    400008: Car_003
+    400010: Car_004
+    400012: Car_005
+    400014: Car_006
+    400016: DoorL
+    400018: DoorR
+    400020: DoorWindowL
+    400022: DoorWindowR
+    400024: Engine
+    400026: Hood
+    400028: Seat1
+    400030: Seat2
+    400032: Steeringwheel
+    400034: Trunk
+    400036: WheelBL
+    400038: WheelBR
+    400040: WheelFL
+    400042: WheelFR
+    400044: Windows
+    2100000: TurnsignalR
+    2100002: TurnsignalL
+    2100004: Gray
+    2100006: Rearlights
+    2100008: PriCarColor
+    2100010: SecCarColor
+    2100012: SecInterior
+    2100014: PriInterior
+    2100016: Crome
+    2100018: Headlights
+    2100020: Mirror
+    2100022: Seat1
+    2100024: Seat2
+    2100026: Glass
+    2100028: Steeringwheel
+    2100030: Wheel
+    2100032: Metal
+    2300000: Car
+    2300002: Car_001
+    2300004: Car_002
+    2300006: Car_003
+    2300008: Car_004
+    2300010: Car_005
+    2300012: Car_006
+    2300014: DoorL
+    2300016: DoorR
+    2300018: DoorWindowL
+    2300020: DoorWindowR
+    2300022: Engine
+    2300024: Hood
+    2300026: Seat1
+    2300028: Seat2
+    2300030: Steeringwheel
+    2300032: Trunk
+    2300034: WheelBL
+    2300036: WheelBR
+    2300038: WheelFL
+    2300040: WheelFR
+    2300042: Windows
+    3300000: Car
+    3300002: Car_001
+    3300004: Car_002
+    3300006: Car_003
+    3300008: Car_004
+    3300010: Car_005
+    3300012: Car_006
+    3300014: DoorL
+    3300016: DoorR
+    3300018: DoorWindowL
+    3300020: DoorWindowR
+    3300022: Engine
+    3300024: Hood
+    3300026: Seat1
+    3300028: Seat2
+    3300030: Steeringwheel
+    3300032: Trunk
+    3300034: WheelBL
+    3300036: WheelBR
+    3300038: WheelFL
+    3300040: WheelFR
+    3300042: Windows
+    4300000: Car_006
+    4300002: Car_005
+    4300004: Car_004
+    4300006: Car_003
+    4300008: Car_002
+    4300010: Car_001
+    4300012: Car
+    4300014: DoorL
+    4300016: Seat1
+    4300018: Seat2
+    4300020: DoorWindowL
+    4300022: Steeringwheel
+    4300024: WheelFL
+    4300026: WheelBL
+    4300028: WheelFR
+    4300030: DoorR
+    4300032: DoorWindowR
+    4300034: Windows
+    4300036: WheelBR
+    4300038: Trunk
+    4300040: Hood
+    4300042: Engine
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
